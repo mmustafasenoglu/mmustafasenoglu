@@ -13,8 +13,8 @@
 <br/>
 <br/>
 
-<!-- İstatistik Kartları -->
-<img src="https://github-readme-stats.vercel.app/api?username=mmustafasenoglu&show_icons=true&theme=onedark" height="192" alt="GitHub Stats" />
+<!-- İstatistik Kartları (Sorunsuz sunucu ve önbellek temizleyici kodla güncellendi) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mmustafasenoglu&show_icons=true&theme=onedark&v=2" height="192" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmustafasenoglu&theme=onedark" height="192" alt="GitHub Streak" />
 
 </div>
@@ -60,5 +60,5 @@ Rather than just writing code, I focus on the **bigger picture**—designing sca
 
 <div align="center">
   <h3>📈 GitHub Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmustafasenoglu&layout=compact&theme=onedark" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mmustafasenoglu&layout=compact&theme=onedark&v=2" alt="Top Languages" />
 </div>
