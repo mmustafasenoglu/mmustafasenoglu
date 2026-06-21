@@ -23,7 +23,7 @@
 
 ## Hi there, I'm Muhammet Mustafa Şenoğlu! 👋
 
-I am a 2nd-year **Computer Engineering** student and a passionate **Backend & Full-Stack Developer**. My journey is driven by a strong desire to build real-world applications and solve complex problems through clean and efficient code. 
+I am a 3nd-year **Computer Engineering** student and a passionate **Backend & Full-Stack Developer**. My journey is driven by a strong desire to build real-world applications and solve complex problems through clean and efficient code. 
 
 Rather than just writing code, I focus on the **bigger picture**—designing scalable backend architectures, creating intuitive user-centric interfaces, and ensuring seamless data integration across systems. 
 
