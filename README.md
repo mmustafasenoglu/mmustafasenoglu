@@ -1,64 +1,141 @@
 <div align="center">
 
-<!-- Sosyal Medya ve İletişim Rozetleri -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-senoglu-8a9014312)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/mmustafasenoglu)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mmustafasenoglu0@gmail.com)
+# Hey, I'm Mustafa Şenoğlu 👋
 
-<br/>
+**Backend & Full-Stack Developer | Open Source Contributor | CS Student**
 
-<!-- Görüntülenme Sayacı -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-senoglu-8a9014312)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmustafasenoglu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmustafasenoglu0@gmail.com)
+
 <img src="https://komarev.com/ghpvc/?username=mmustafasenoglu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<br/>
-<br/>
+</div>
 
-<!-- İstatistik Kartları (Sorunsuz sunucu ve önbellek temizleyici kodla güncellendi) -->
+---
+
+## 🧑‍💻 About Me
+
+3rd year **Computer Engineering** student at [university]. I build real-world applications, not just tutorials. My focus is on **scalable backends**, **automation tools**, and **open source contributions** to projects used by thousands.
+
+- 🔨 I build things that solve actual problems
+- 🌍 Active open source contributor — merged PRs into Zephyr, ZIO, Docusaurus, sea-query, DocsGPT, and more
+- 📊 GitHub: **47 repos** | **19 followers** | **10+ merged PRs** across major OSS projects
+- 🎯 Currently exploring: distributed systems, AI/ML pipelines, and developer tooling
+
+---
+
+## 🚀 My Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎬 AutoShorts-AI
+Fully automated Python bot that fetches AI news, generates YouTube Shorts with FFmpeg, and auto-uploads them daily.
+`Python` `FFmpeg` `YouTube API` `Telegram Bot` `Docker`
+
+</td>
+<td width="50%">
+
+### 📸 ig-unfollow-checker
+Instagram'da seni geri takip etmeyenleri bul ve tek tıkla takipten çık. Desktop GUI with unfollow feature.
+`Python` `Tkinter` `Instagram API` `GraphQL`
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🎥 video-converter
+WhatsApp, YouTube ve Instagram için masaüstü video dönüştürücü.
+`Electron` `FFmpeg` `Node.js` `Dark Theme`
+
+</td>
+<td>
+
+### 🍳 fridge-chef
+AI-powered web app that generates recipes from fridge photos using Google Gemini Vision API.
+`Python` `Gemini AI` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🧠 psycho-help
+RAG demo using psychology articles with OpenAI embeddings and FAISS.
+`Python` `OpenAI` `FAISS` `RAG`
+
+</td>
+<td>
+
+### 📋 bigtech-interview-insights ⭐13
+Real, company-tagged interview questions from Big Tech — Google, Meta, Amazon, Apple, Microsoft.
+`JavaScript` `Data Analysis`
+
+</td>
+</tr>
+</table>
+
+> 📦 [View all repos →](https://github.com/mmustafasenoglu?tab=repositories)
+
+---
+
+## 🌍 Open Source Contributions
+
+Merged PRs in major projects:
+
+| Project | Contribution |
+|---------|-------------|
+| [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr) | GPIO driver Doxygen fix |
+| [ZIO](https://github.com/zio/zio) | SEO metadata for docs |
+| [Docusaurus](https://github.com/facebook/docusaurus) | Added utilities to docs |
+| [sea-query](https://github.com/SeaQL/sea-query) | `clear_group_by()` & `clear_having()` |
+| [DocsGPT](https://github.com/arc53/DocsGPT) | Docker HMR fix |
+| [kana-dojo](https://github.com/nicolo-ribaudo/kana-dojo) | Translation fix + community contributions |
+| [quotevote-monorepo](https://github.com/nicolo-ribaudo/quotevote-monorepo) | jsconfig.json fix |
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mmustafasenoglu&show_icons=true&theme=onedark&v=2" height="192" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmustafasenoglu&theme=onedark" height="192" alt="GitHub Streak" />
 
 </div>
 
-<br/>
-
-## Hi there, I'm Muhammet Mustafa Şenoğlu! 👋
-
-I am a 3nd-year **Computer Engineering** student and a passionate **Backend & Full-Stack Developer**. My journey is driven by a strong desire to build real-world applications and solve complex problems through clean and efficient code. 
-
-Rather than just writing code, I focus on the **bigger picture**—designing scalable backend architectures, creating intuitive user-centric interfaces, and ensuring seamless data integration across systems. 
-
-🌟 **My Vision & Approach:**
-- 🚀 **Building for Impact:** I love developing platforms that solve actual needs, from automated workflows and real-time scheduling to AI-driven tools and scalable web platforms.
-- 🧠 **Data & Algorithms:** Deeply interested in algorithms, data structures, and algorithmic problem-solving to continually sharpen my technical foundation.
-- 🤝 **Collaboration & Community:** I thrive in team environments, whether it's collaborating on mission-critical system interfaces or organizing events to bring developers together. I believe in growth through shared experiences and human interaction.
-- 🛠️ **Continuous Growth:** Always exploring new technologies, refining my architecture design skills, and pushing the boundaries of what I can build next.
-
-<hr/>
-
 <div align="center">
-  <h3>💻 Tech Stack & Tools</h3>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mmustafasenoglu&layout=compact&theme=onedark&v=2" alt="Top Languages" />
+
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-<br/>
+---
 
 <div align="center">
-  <h3>📈 GitHub Activity</h3>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mmustafasenoglu&layout=compact&theme=onedark&v=2" alt="Top Languages" />
+
+*"I don't just fork repos — I fix bugs, add features, and get them merged."*
+
 </div>
