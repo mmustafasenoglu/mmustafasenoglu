@@ -14,33 +14,33 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 3rd year **Computer Engineering** student. I build real-world applications, not just tutorials. My focus is on **scalable backends**, **AI-powered automation**, and **open source contributions** to projects used by thousands.
 
-- 🔨 I build things that solve actual problems
-- 🌍 **132 PR** across major OSS projects — **18 merged** (Zephyr, Cesium, Stellarium, sea-query, matplotlib, LMCache, apache/age...)
-- 📊 **62 repos** | **24 followers** | Contributions to Zephyr RTOS, Grafana, Kubernetes, Bazel, Helm
-- 🎯 Currently exploring: distributed systems, AI/ML pipelines, and developer tooling
-- 🪁 **Zephyr Technical Contributor** badge
+- I build things that solve actual problems
+- **132 PR** opened across major OSS projects — **18 merged** (Zephyr, Cesium, Stellarium, matplotlib, sea-query, LMCache, apache/age...)
+- **62 repos** | **24 followers** | Contributions to Zephyr RTOS, Grafana, Kubernetes, Bazel, Helm
+- Currently exploring: distributed systems, AI/ML pipelines, and developer tooling
+- **Zephyr Technical Contributor** badge
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎬 AutoShorts-AI ⭐1
-Fully automated Python bot that fetches AI news, generates YouTube Shorts with FFmpeg, video ses kesme dahil, and auto-uploads them daily.
+### AutoShorts-AI ⭐1
+Fully automated Python bot that fetches AI news, generates YouTube Shorts with FFmpeg, audio removal included, and auto-uploads them daily.
 `Python` `FFmpeg` `YouTube API` `Telegram Bot` `Docker` `TikTok`
 
 </td>
 <td width="50%">
 
-### 🎥 SynC Cinema
-Çevrimiçi film/dizi izleme platformu — real-time senkronizasyon ile arkadaşlarınla birlikte izle.
+### SynC Cinema
+Online movie/series watching platform — watch together with friends in real-time sync.
 `JavaScript` `WebSocket` `Real-time Sync`
 
 </td>
@@ -48,15 +48,15 @@ Fully automated Python bot that fetches AI news, generates YouTube Shorts with F
 <tr>
 <td>
 
-### 🌉 MikroBridge
-WooCommerce, Trendyol ve Hepsiburada siparişlerini otomatik olarak Mikro ERP veritabanına (Cari ve Siparişler) aktaran Entegrasyon Servisi.
+### MikroBridge
+Integration service that automatically transfers WooCommerce, Trendyol, and Hepsiburada orders to Mikro ERP database (customers and orders).
 `C#` `WooCommerce API` `ERP Integration` `E-Commerce`
 
 </td>
 <td>
 
-### 📁 File Transfer
-Hızlı ve güvenli dosya transfer uygulaması — P2P desteği ile büyük dosyaları paylaş.
+### File Transfer
+Fast and secure file transfer app — share large files with P2P support.
 `JavaScript` `Node.js` `WebSocket`
 
 </td>
@@ -64,14 +64,14 @@ Hızlı ve güvenli dosya transfer uygulaması — P2P desteği ile büyük dosy
 <tr>
 <td>
 
-### 💊 Nursa Bot for Germany
-Almanya'daki hemşireler için Telegram botu — iş ilanları, başvuru süreci ve rehberlik.
+### Nursa Bot for Germany
+Telegram bot for nurses in Germany — job listings, application process, and guidance.
 `Python` `Telegram Bot` `Job Automation`
 
 </td>
 <td>
 
-### 🍳 fridge-chef
+### fridge-chef
 AI-powered web app that generates recipes from fridge photos using Google Gemini Vision API.
 `TypeScript` `Gemini AI` `Computer Vision`
 
@@ -80,14 +80,14 @@ AI-powered web app that generates recipes from fridge photos using Google Gemini
 <tr>
 <td>
 
-### 🧠 psycho-help
+### psycho-help
 RAG demo using psychology articles with OpenAI embeddings and FAISS vector store.
 `Python` `OpenAI` `FAISS` `RAG`
 
 </td>
 <td>
 
-### 📋 bigtech-interview-insights ⭐13
+### bigtech-interview-insights ⭐13
 Real, company-tagged interview questions from Big Tech — Google, Meta, Amazon, Apple, Microsoft.
 `CSS` `Data Analysis` `Interview Analytics`
 
@@ -96,15 +96,15 @@ Real, company-tagged interview questions from Big Tech — Google, Meta, Amazon,
 <tr>
 <td>
 
-### 🔍 ig-unfollow-checker ⭐1
-Instagram'da seni geri takip etmeyenleri bul ve tek tıkla takipten çık.
+### ig-unfollow-checker ⭐1
+Find who doesn't follow you back on Instagram and unfollow them in one click.
 `Python` `Tkinter` `Instagram API` `GraphQL`
 
 </td>
 <td>
 
-### 💱 dovizkuru
-Döviz Kuru Uygulaması — real-time kur takibi ve grafik gösterimi.
+### dovizkuru
+Currency exchange app — real-time rate tracking and chart visualization.
 `HTML` `JavaScript` `REST API`
 
 </td>
@@ -113,73 +113,48 @@ Döviz Kuru Uygulaması — real-time kur takibi ve grafik gösterimi.
 
 ---
 
-## 🛠️ More Projects
+## More Projects
 
 <table>
 <tr>
 <td>
 
-### 🚁 UAV Team Projects
+### UAV Team Projects
 `Ardupilot-Gazebo` · `UAV-Tracking-Algorithm` · `zada-gcs` · `KAMIKAZE` · `Documentation`
-UAV otonom uçuş, gazebo simülasyonu ve ground control station.
+Autonomous UAV flight, Gazebo simulation, and ground control station.
 
 </td>
 <td>
 
-### 🤖 AI/ML Projects
+### AI/ML Projects
 `algoRag` · `COpyNotion` · `Notion-copy` · `-FloraMind` · `AI-Powered-Resource-Scaling-Advisor`
-RAG pipeline'ları, AI asistanları ve akıllı ölçeklendirme.
+RAG pipelines, AI assistants, and intelligent scaling.
 
 </td>
 </tr>
 <tr>
 <td>
 
-### 📱 Mobile/Web Apps
+### Mobile/Web Apps
 `urun-takip` · `Weatherapp` · `Dynamic_qr_menu-` · `Pysho_Portfolyo` · `local-business-directory`
-React Native Expo, dinamik menüler, portfolyo siteleri.
+React Native Expo, dynamic menus, portfolio sites.
 
 </td>
 <td>
 
-### ☕ Java Projects
+### Java Projects
 `javaworks` · `Asans-r-system` · `Javaprojects`
-Asansör kontrol sistemi, Java algoritmaları ve veri yapıları.
+Elevator control system, Java algorithms and data structures.
 
 </td>
 </tr>
 </table>
 
-> 📦 [Tüm projelerim →](https://github.com/mmustafasenoglu?tab=repositories)
+> [All repos →](https://github.com/mmustafasenoglu?tab=repositories)
 
 ---
 
-## 🌍 Open Source Contributions
-
-18 merge edilmiş PR — Zephyr, Cesium, Stellarium, matplotlib, sea-query, LMCache, apache/age ve daha fazlası.
-
-| # | Project | Contribution | Status |
-|---|---------|-------------|--------|
-| 1 | [Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr/pull/111892) | GPIO Doxygen link fix | ✅ Merged |
-| 2 | [Cesium](https://github.com/CesiumGS/cesium/pull/13597) | Default texture transparent | ✅ Merged |
-| 3 | [Stellarium](https://github.com/Stellarium/stellarium/pull/5031) | CJK sky culture region fix | ✅ Merged |
-| 4 | [matplotlib](https://github.com/matplotlib/matplotlib/pull/32009) | DOC: image_resampling | ✅ Merged |
-| 5 | [sea-query](https://github.com/SeaQL/sea-query/pull/1086) | `clear_group_by()` & `clear_having()` | ✅ Merged |
-| 6 | [LMCache](https://github.com/LMCache/LMCache/pull/4102) | f-string → %-format | ✅ Merged |
-| 7 | [apache/age](https://github.com/apache/age/pull/2470) | README misleading text fix | ✅ Merged |
-| 8 | [DocsGPT](https://github.com/arc53/DocsGPT/pull/2574) | Docker HMR fix | ✅ Merged |
-| 9 | [Apache Traffic Server](https://github.com/apache/trafficserver/pull/13313) | TSUrlHostGet docs | ✅ Merged |
-| 10 | [ZIO](https://github.com/zio/zio/pull/11024) | SEO metadata | ✅ Merged |
-| 11 | [kana-dojo](https://github.com/lingdojo/kana-dojo/pull/23043) | 間柄 translation fix | ✅ Merged |
-| 12 | [dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com/pull/436) | Utilities eklendi | ✅ Merged |
-| 13 | [Mathesar](https://github.com/mathesar-foundation/mathesar/pull/5349) | Confusing description fix | ✅ Merged |
-| 14 | [wger](https://github.com/wger-project/flutter/pull/1257) | routineId nullable crash fix | ✅ Merged |
-
-> 📄 [Tüm PR takibi →](https://github.com/mmustafasenoglu/github_desteklşer/blob/main/README.md)
-
----
-
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -200,7 +175,7 @@ Asansör kontrol sistemi, Java algoritmaları ve veri yapıları.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
