@@ -19,10 +19,11 @@
 3rd year **Computer Engineering** student. I build real-world applications, not just tutorials. My focus is on **scalable backends**, **AI-powered automation**, and **open source contributions** to projects used by thousands.
 
 - I build things that solve actual problems
-- **132 PR** opened across major OSS projects — **18 merged** (Zephyr, Cesium, Stellarium, matplotlib, sea-query, LMCache, apache/age...)
-- **62 repos** | **24 followers** | Contributions to Zephyr RTOS, Grafana, Kubernetes, Bazel, Helm
+- **149 PR** opened across major OSS projects — **23 merged** (Zephyr, Cesium, Stellarium, matplotlib, sea-query, LMCache, apache/age, Ocelot, Tridactyl, refined-github...)
+- **40+ repos** | Contributions to Zephyr RTOS, Grafana, Kubernetes, Bazel, Helm, AWS s2n-tls
 - Currently exploring: distributed systems, AI/ML pipelines, and developer tooling
 - **Zephyr Technical Contributor** badge
+- 🎯 **Goal:** Landing a role at a Big Tech company — constantly leveling up through OSS contributions and building production-grade systems
 
 ---
 
@@ -39,7 +40,7 @@ Fully automated Python bot that fetches AI news, generates YouTube Shorts with F
 </td>
 <td width="50%">
 
-### SynC Cinema
+### SyncCinema
 Online movie/series watching platform — watch together with friends in real-time sync.
 `JavaScript` `WebSocket` `Real-time Sync`
 
@@ -96,16 +97,12 @@ Real, company-tagged interview questions from Big Tech — Google, Meta, Amazon,
 <tr>
 <td>
 
-### ig-unfollow-checker ⭐1
-Find who doesn't follow you back on Instagram and unfollow them in one click.
-`Python` `Tkinter` `Instagram API` `GraphQL`
+### FloraMind
+Vintage-themed AI gut health assistant powered by Gemini 2.0 Flash with RAG architecture.
+`Python` `Django` `React` `Gemini AI`
 
 </td>
 <td>
-
-### dovizkuru
-Currency exchange app — real-time rate tracking and chart visualization.
-`HTML` `JavaScript` `REST API`
 
 </td>
 </tr>
@@ -127,7 +124,7 @@ Autonomous UAV flight, Gazebo simulation, and ground control station.
 <td>
 
 ### AI/ML Projects
-`algoRag` · `COpyNotion` · `Notion-copy` · `-FloraMind` · `AI-Powered-Resource-Scaling-Advisor`
+`algoRag` · `COpyNotion` · `Notion-copy` · `AI-Powered-Resource-Scaling-Advisor`
 RAG pipelines, AI assistants, and intelligent scaling.
 
 </td>
