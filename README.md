@@ -27,90 +27,17 @@
 
 ---
 
-## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
 
-### AutoShorts-AI ⭐1
-Fully automated Python bot that fetches AI news, generates YouTube Shorts with FFmpeg, audio removal included, and auto-uploads them daily.
-`Python` `FFmpeg` `YouTube API` `Telegram Bot` `Docker` `TikTok`
 
-</td>
-<td width="50%">
 
-### SyncCinema
-Online movie/series watching platform — watch together with friends in real-time sync.
-`JavaScript` `WebSocket` `Real-time Sync`
-
-</td>
-</tr>
-<tr>
-<td>
-
-### MikroBridge
-Integration service that automatically transfers WooCommerce, Trendyol, and Hepsiburada orders to Mikro ERP database (customers and orders).
-`C#` `WooCommerce API` `ERP Integration` `E-Commerce`
-
-</td>
-<td>
-
-### File Transfer
-Fast and secure file transfer app — share large files with P2P support.
-`JavaScript` `Node.js` `WebSocket`
-
-</td>
-</tr>
-<tr>
-<td>
-
-### Nursa Bot for Germany
-Telegram bot for nurses in Germany — job listings, application process, and guidance.
-`Python` `Telegram Bot` `Job Automation`
-
-</td>
-<td>
-
-### fridge-chef
 AI-powered web app that generates recipes from fridge photos using Google Gemini Vision API.
 `TypeScript` `Gemini AI` `Computer Vision`
 
 </td>
-</tr>
-<tr>
-<td>
 
-### psycho-help
-RAG demo using psychology articles with OpenAI embeddings and FAISS vector store.
-`Python` `OpenAI` `FAISS` `RAG`
 
-</td>
-<td>
-
-### bigtech-interview-insights ⭐13
-Real, company-tagged interview questions from Big Tech — Google, Meta, Amazon, Apple, Microsoft.
-`CSS` `Data Analysis` `Interview Analytics`
-
-</td>
-</tr>
-<tr>
-<td>
-
-### FloraMind
-Vintage-themed AI gut health assistant powered by Gemini 2.0 Flash with RAG architecture.
-`Python` `Django` `React` `Gemini AI`
-
-</td>
-<td>
-
-</td>
-</tr>
-</table>
-
----
-
-## More Projects
+##  Projects
 
 <table>
 <tr>
@@ -135,13 +62,6 @@ RAG pipelines, AI assistants, and intelligent scaling.
 ### Mobile/Web Apps
 `urun-takip` · `Weatherapp` · `Dynamic_qr_menu-` · `Pysho_Portfolyo` · `local-business-directory`
 React Native Expo, dynamic menus, portfolio sites.
-
-</td>
-<td>
-
-### Java Projects
-`javaworks` · `Asans-r-system` · `Javaprojects`
-Elevator control system, Java algorithms and data structures.
 
 </td>
 </tr>
