@@ -19,7 +19,7 @@
 3rd year **Computer Engineering** student. I build real-world applications, not just tutorials. My focus is on **scalable backends**, **AI-powered automation**, and **open source contributions** to projects used by thousands.
 
 - I build things that solve actual problems
-- **149 PR** opened across major OSS projects — **23 merged** (Zephyr, Cesium, Stellarium, matplotlib, sea-query, LMCache, apache/age, Ocelot, Tridactyl, refined-github...)
+- **149 PR** opened across major OSS projects — **28 merged** (Zephyr, Cesium, Stellarium, matplotlib, sea-query, LMCache, apache/age, Ocelot, Tridactyl, refined-github...)
 - **40+ repos** | Contributions to Zephyr RTOS, Grafana, Kubernetes, Bazel, Helm, AWS s2n-tls
 - Currently exploring: distributed systems, AI/ML pipelines, and developer tooling
 - **Zephyr Technical Contributor** badge
