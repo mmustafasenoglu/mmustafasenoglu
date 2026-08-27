@@ -41,42 +41,11 @@
 
 ---
 
-## Projects
 
-<table>
-<tr>
-<td>
-
-### UAV Team Projects
-`Ardupilot-Gazebo` · `UAV-Tracking-Algorithm` · `zada-gcs` · `KAMIKAZE` · `Documentation`
-Autonomous UAV flight, Gazebo simulation, and ground control station.
-
-</td>
-<td>
-
-### AI/ML Projects
-`algoRag` · `COpyNotion` · `Notion-copy` · `AI-Powered-Resource-Scaling-Advisor`
-RAG pipelines, AI assistants, and intelligent scaling.
-
-</td>
-</tr>
-<tr>
-<td>
-
-### Mobile/Web Apps
 `urun-takip` · `Weatherapp` · `Dynamic_qr_menu-` · `Pysho_Portfolyo` · `local-business-directory`
 React Native Expo, dynamic menus, portfolio sites.
 
-</td>
-<td>
 
-### Automation & Tooling
-`PR-Watcher` · `github_desteklşer` 
-GitHub Notifications API polling (launchd, 30min interval) → macOS notifications + draft replies
-
-</td>
-</tr>
-</table>
 
 > [All repos →](https://github.com/mmustafasenoglu?tab=repositories)
 
