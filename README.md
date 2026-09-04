@@ -19,7 +19,7 @@
 3rd year **Computer Engineering** student. I build real-world applications, not just tutorials. My focus is on **scalable backends**, **AI-powered automation**, and **open source contributions** to projects used by thousands.
 
 - I build things that solve actual problems
-- **202 PR** opened across major OSS projects — **41 merged** (radare2, tantivy, s2n-tls, deskflow, cuml, boa, gleam, sttp, openvdb, apache/age, Weblate, LMCache, Ocelot, Tridactyl, refined-github, UniversalMediaServer, wger, Cesium, Mathesar, Stellarium, matplotlib, kana-dojo, SeaQuery, Apache Traffic Server, ZIO, DocsGPT, QuoteVote, Zephyr, first-contributions...)
+- **296 PR** opened across major OSS projects — **53 merged** (radare2, tantivy, s2n-tls, deskflow, cuml, boa, gleam, sttp, openvdb, apache/age, Weblate, LMCache, Ocelot, Tridactyl, refined-github, UniversalMediaServer, wger, Cesium, Mathesar, Stellarium, matplotlib, kana-dojo, SeaQuery, Apache Traffic Server, ZIO, DocsGPT, QuoteVote, Zephyr, first-contributions...)
 - **39 forks** | Contributions to Zephyr RTOS, Grafana, Kubernetes, Bazel, Helm, AWS s2n-tls, radare2, Apache, Cesium, Stellarium, and 25+ more
 - Currently exploring: distributed systems, AI/ML pipelines, developer tooling, and **PR automation** (launchd-based watcher)
 - **Zephyr Technical Contributor** badge
@@ -31,10 +31,10 @@
 
 | Metric | Count |
 |--------|-------|
-| **Total PRs** | 202 |
-| ✅ **Merged** | 35 |
-| ❌ **Closed/Rejected** | 133 |
-| ⏳ **Active (review pending)** | 27 |
+| **Total PRs** | 296 |
+| ✅ **Merged** | 53 |
+| ❌ **Closed/Rejected** | 178 |
+| ⏳ **Active (review pending)** | 65 |
 | 🍴 **Active Forks** | 39 |
 
 > *Updated: 18 Aug 2026 — tracked in [github_desteklşer](https://github.com/mmustafasenoglu/github_desteklser)*
