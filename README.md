@@ -1,93 +1,62 @@
 <div align="center">
 
-# Hey, I'm Mustafa Şenoğlu 👋
+# Mustafa Şenoğlu
 
-**NLP & Full-Stack Developer | Open Source Contributor | CS Student**
+### AI & Full-Stack Developer · Open Source Contributor · Computer Engineering Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-%C5%9Feno%C4%9Flu-8a9014312/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmustafasenoglu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmustafasenoglu0@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=mmustafasenoglu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-%C5%9Feno%C4%9Flu-8a9014312/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mmustafasenoglu0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mmustafasenoglu)
 
 </div>
 
----
+## About
 
-## About Me
+I am a third-year Computer Engineering student building AI-powered tools and full-stack products. I enjoy working across the stack—from backend architecture and data workflows to practical, responsive user experiences—with a focus on software that solves real problems.
 
-3rd year **Computer Engineering** student. I build real-world applications, not just tutorials. My focus is on **scalable backends**, **AI-powered automation**, and **open source contributions** to projects used by thousands.
+Open source is a central part of how I learn and work. I investigate issues, reproduce failures, write focused fixes and tests, and collaborate with maintainers to get changes production-ready.
 
-- I build things that solve actual problems
-- **296 PR** opened across major OSS projects — **53 merged** (radare2, tantivy, s2n-tls, deskflow, cuml, boa, gleam, sttp, openvdb, apache/age, Weblate, LMCache, Ocelot, Tridactyl, refined-github, UniversalMediaServer, wger, Cesium, Mathesar, Stellarium, matplotlib, kana-dojo, SeaQuery, Apache Traffic Server, ZIO, DocsGPT, QuoteVote, Zephyr, first-contributions...)
-- **39 forks** | Contributions to Zephyr RTOS, Grafana, Kubernetes, Bazel, Helm, AWS s2n-tls, radare2, Apache, Cesium, Stellarium, and 25+ more
-- Currently exploring: distributed systems, AI/ML pipelines, developer tooling, and **PR automation** (launchd-based watcher)
-- **Zephyr Technical Contributor** badge
-- 🎯 **Goal:** Landing a role at a Big Tech company — constantly leveling up through OSS contributions and building production-grade systems
+- Building AI-assisted developer and research tools
+- Developing full-stack web and mobile applications
+- Contributing to compilers, developer tooling, infrastructure, and established OSS projects
+- Interested in backend systems, NLP, static analysis, and reliable automation
 
----
+## Featured projects
 
-## 📊 Open Source Stats (Live)
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**CiteGuard**](https://github.com/mmustafasenoglu/citeguard) | Static analysis for academic writing: detects unsupported claims, verifies citations, checks source overlap, and improves attribution. | Python, CLI, NLP |
+| [**SyncCinema**](https://github.com/mmustafasenoglu/synccinema) | Real-time synchronized local and YouTube playback with rooms, chat, reactions, voice/video, and subtitle support. | React, Node.js, Socket.IO, WebRTC |
+| [**Ürün Takip**](https://github.com/mmustafasenoglu/urun-takip) | Offline-first mobile application for tracking product quantities and expiry dates with local notifications. | React Native, Expo |
 
-| Metric | Count |
-|--------|-------|
-| **Total PRs** | 296 |
-| ✅ **Merged** | 53 |
-| ❌ **Closed/Rejected** | 178 |
-| ⏳ **Active (review pending)** | 65 |
-| 🍴 **Active Forks** | 39 |
+## Open-source work
 
-> *Updated: 18 Aug 2026 — tracked in [github_desteklşer](https://github.com/mmustafasenoglu/github_desteklser)*
+My contributions have been merged across **41 external repositories**, ranging from focused bug fixes and tests to new features and maintenance work.
 
----
+| Project | Selected contribution |
+| --- | --- |
+| [radare2](https://github.com/radareorg/radare2) | [Simplified the ESIL engine by removing 39 dead or redundant operations](https://github.com/radareorg/radare2/pull/26647) and contributed additional fixes to analysis and tooling. |
+| [Soot](https://github.com/soot-oss/soot) | [Prevented concurrent modification in `StaticInliner`](https://github.com/soot-oss/soot/pull/2302) and [fixed outer-class resolution for names containing `$`](https://github.com/soot-oss/soot/pull/2303). |
+| [Weblate](https://github.com/WeblateOrg/weblate) | [Added support for multiple gettext keywords in the xgettext add-on](https://github.com/WeblateOrg/weblate/pull/21246). |
+| [supabase-js](https://github.com/supabase/supabase-js) | [Fixed stolen-lock `AbortError` handling when the acquire timeout is zero](https://github.com/supabase/supabase-js/pull/2616). |
+| [NVIDIA cuML](https://github.com/rapidsai/cuml) | [Documented metric-specific keyword arguments for pairwise distances](https://github.com/NVIDIA/cuml/pull/8459). |
+| [xplr](https://github.com/sayanarijit/xplr) | [Fixed a Windows permissions panic](https://github.com/sayanarijit/xplr/pull/782) and improved portable file creation. |
 
+Other merged work includes contributions to **Zephyr**, **Apache AGE**, **Boa**, **Certbot**, **SeaQuery**, **Tantivy**, **OpenVDB**, **Cesium**, and **matplotlib**.
 
-`urun-takip` · `Weatherapp` · `Dynamic_qr_menu-` · `Pysho_Portfolyo` · `local-business-directory`
-React Native Expo, dynamic menus, portfolio sites.
+## Technologies
 
+**Languages:** `Python` · `TypeScript` · `JavaScript` · `Java` · `Rust` · `C` · `C#`
 
+**Application development:** `React` · `React Native` · `Node.js` · `Django`
 
-> [All repos →](https://github.com/mmustafasenoglu?tab=repositories)
+**Data and infrastructure:** `PostgreSQL` · `Redis` · `Docker` · `Linux` · `Git`
 
----
-
-## Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
-
----
-
-## GitHub Stats
+## GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mmustafasenoglu&show_icons=true&theme=onedark&v=3" height="192" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mmustafasenoglu&theme=onedark" height="192" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mmustafasenoglu&layout=compact&theme=onedark&v=3" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mmustafasenoglu&show_icons=true&theme=transparent&hide_border=true" alt="Mustafa's GitHub statistics" />
 
 </div>
 
@@ -95,6 +64,6 @@ React Native Expo, dynamic menus, portfolio sites.
 
 <div align="center">
 
-*"I don't just fork repos — I fix bugs, add features, and get them merged."*
+I am open to internships, collaborations, and engineering opportunities involving AI, full-stack development, backend systems, or open source.
 
 </div>
