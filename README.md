@@ -58,7 +58,7 @@ Other merged work includes contributions to **Zephyr**, **Apache AGE**, **Boa**,
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mmustafasenoglu&show_icons=true&theme=transparent&hide_border=true" alt="Mustafa's GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmustafasenoglu&theme=github" alt="Mustafa's GitHub activity summary" />
 
 </div>
 
