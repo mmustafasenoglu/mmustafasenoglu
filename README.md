@@ -8,6 +8,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mmustafasenoglu0@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mmustafasenoglu)
 
+<img src="https://komarev.com/ghpvc/?username=mmustafasenoglu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+
 </div>
 
 ## About
